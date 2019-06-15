@@ -1,2 +1,2 @@
 # GitIdeaTest
-测试
+测试Idea 和 Github
