@@ -1,0 +1,2 @@
+1. 安装ocxfiles该目录下TrustSignPDFPlugin.Standard.exe；右击管理员身份运行注册插件QRCode1.bat
+2. 运行根目录下的ZZApp_Scan_Project.exe
